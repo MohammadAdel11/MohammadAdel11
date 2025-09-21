@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MohammadAdel11?tab=followers">Followers</a> ·
   <a href="https://www.linkedin.com/in/mohammad-foqahaa-78ab50375">LinkedIn</a> ·
   <a href="mailto:mohammad.a.foqahaa@gmail.com">Email</a>
 </p>
